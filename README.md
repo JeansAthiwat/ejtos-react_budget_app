@@ -1,4 +1,4 @@
-# What I Use
+# Budget Allocation App
   I am using React together with Redux to create a responsive, component-based, and state-managed frontend.
 
 # About This Project
